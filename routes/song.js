@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const passport = require("passport");
 const Song = require("../models/Song");
-const User = require("../models/user");
+const User = require("../models/User");
 
 router.post(
   "/create",
