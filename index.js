@@ -47,7 +47,7 @@ passport.use(
 
 
 app.get("/", (req, res) => {
-    res.send("hello world")
+    res.redirect("/login");
 })
 
 app.use("/auth", authRoutes);
