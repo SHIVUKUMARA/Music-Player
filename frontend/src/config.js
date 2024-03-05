@@ -1,3 +1,3 @@
-export const cloudinary_upload_preset = "dlgctv8t";
+export const cloudinary_upload_preset = "add your cloudinary preset";
 
-export const cloudinary_cloud_name = "dcqq10m1j";
+export const cloudinary_cloud_name = "add your cloudinary name";
