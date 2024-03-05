@@ -1,6 +1,6 @@
 const express = require("express");
 const passport = require("passport");
-const Playlist = require("../models/playlist");
+const Playlist = require("../models/Playlist");
 const User = require("../models/User");
 const Song = require("../models/Song");
 
