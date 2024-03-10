@@ -8,3 +8,5 @@ MERN STACK
 for login email: shivu000@gmail.com
 
 password: Shivu000
+
+OR sign Up and login
